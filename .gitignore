@@ -1,0 +1,29 @@
+# Visual Studio cache
+.vs/
+*.VC.db
+*.VC.opendb
+*.suo
+*.user
+
+# Build output
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+Win32/
+*.exe
+*.obj
+*.ilk
+*.pdb
+*.idb
+*.log
+*.tlog/
+*.lastbuildstate
+*.recipe
+*.FileListAbsolute.txt
+
+# Local temporary files
+tmp/
+
+# Download archives
+*.zip
