@@ -28,3 +28,9 @@ tmp/
 # Download archives
 *.zip
 *.Z
+
+# Final project data outputs
+FinalProject/data/raw/*
+FinalProject/data/processed/*
+!FinalProject/data/raw/.gitkeep
+!FinalProject/data/processed/.gitkeep
